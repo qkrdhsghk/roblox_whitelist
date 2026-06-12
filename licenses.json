@@ -1,9 +1,9 @@
 {
     "groups": {
-        "12345678": {
-            "community": "ABC Milsim",
-            "owner": "ABCLeader",
-            "discord": "abc_leader",
+        "54364363": {
+            "community": "Admin test",
+            "owner": "qpow0730",
+            "discord": "poh07302",
             "product": "Armor System v1",
             "purchaseDate": "2026-06-13",
             "active": true
@@ -20,9 +20,9 @@
     },
 
     "users": {
-        "11111111": {
-            "username": "SomeDeveloper",
-            "discord": "somedev",
+        "2052375519": {
+            "username": "qpow0730",
+            "discord": "poh07302",
             "product": "Armor System v1",
             "purchaseDate": "2026-06-15",
             "active": true
