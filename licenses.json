@@ -1,0 +1,39 @@
+{
+    "groups": {
+        "12345678": {
+            "community": "ABC Milsim",
+            "owner": "ABCLeader",
+            "discord": "abc_leader",
+            "product": "Armor System v1",
+            "purchaseDate": "2026-06-13",
+            "active": true
+        },
+
+        "87654321": {
+            "community": "XYZ PMC",
+            "owner": "XYZOwner",
+            "discord": "xyz_owner",
+            "product": "Armor System v1",
+            "purchaseDate": "2026-06-14",
+            "active": true
+        }
+    },
+
+    "users": {
+        "11111111": {
+            "username": "SomeDeveloper",
+            "discord": "somedev",
+            "product": "Armor System v1",
+            "purchaseDate": "2026-06-15",
+            "active": true
+        },
+
+        "22222222": {
+            "username": "AnotherDeveloper",
+            "discord": "anotherdev",
+            "product": "Armor System v1",
+            "purchaseDate": "2026-06-16",
+            "active": true
+        }
+    }
+}
